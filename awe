@@ -1,0 +1,4 @@
+  if (bullets[i].isOffScreen(canvas)) {
+      bullets.splice(i, 1);
+      dodgedBullets++;
+    }

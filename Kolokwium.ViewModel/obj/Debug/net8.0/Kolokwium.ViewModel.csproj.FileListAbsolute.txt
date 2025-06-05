@@ -1,0 +1,15 @@
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\bin\Debug\net8.0\Kolokwium.ViewModel.deps.json
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\bin\Debug\net8.0\Kolokwium.ViewModel.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\bin\Debug\net8.0\Kolokwium.ViewModel.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\bin\Debug\net8.0\Kolokwium.Model.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\bin\Debug\net8.0\Kolokwium.Model.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.csproj.AssemblyReference.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.AssemblyInfoInputs.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.AssemblyInfo.cs
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwiu.2294EA3D.Up2Date
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\refint\Kolokwium.ViewModel.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\ref\Kolokwium.ViewModel.dll

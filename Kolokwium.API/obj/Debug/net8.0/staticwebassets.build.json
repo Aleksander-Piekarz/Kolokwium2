@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hE6WDRr7jemWLdXMIr+DXxYyAyDGEff0n7fOISydkO4=",
+  "Source": "Kolokwium.API",
+  "BasePath": "_content/Kolokwium.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,23 @@
+@model Kolokwium.ViewModel.VM.AddKsiazkaVm
+
+<h2>Dodaj książkę</h2>
+
+<form asp-action="Add" method="post">
+    <div>
+        <label>Tytuł</label>
+        <input asp-for="Tytul" />
+    </div>
+    <div>
+        <label>AutorId</label>
+        <input asp-for="AutorId" />
+    </div>
+    <div>
+        <label>Wydawnictwo</label>
+        <input asp-for="Wydawnictwo" />
+    </div>
+    <div>
+        <label>Rok wydania</label>
+        <input asp-for="RokWydania" type="number" />
+    </div>
+    <button type="submit">Dodaj</button>
+</form>

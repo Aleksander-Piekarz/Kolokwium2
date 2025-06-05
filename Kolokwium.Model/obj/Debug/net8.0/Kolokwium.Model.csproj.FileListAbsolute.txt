@@ -1,0 +1,12 @@
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\bin\Debug\net8.0\Kolokwium.Model.deps.json
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\bin\Debug\net8.0\Kolokwium.Model.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\bin\Debug\net8.0\Kolokwium.Model.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.csproj.AssemblyReference.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.AssemblyInfoInputs.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.AssemblyInfo.cs
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.csproj.CoreCompileInputs.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\refint\Kolokwium.Model.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\ref\Kolokwium.Model.dll

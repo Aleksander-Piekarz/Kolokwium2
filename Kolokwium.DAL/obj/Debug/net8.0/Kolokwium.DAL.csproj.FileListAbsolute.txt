@@ -1,0 +1,17 @@
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.csproj.AssemblyReference.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.AssemblyInfoInputs.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.AssemblyInfo.cs
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\bin\Debug\net8.0\Kolokwium.DAL.deps.json
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\bin\Debug\net8.0\Kolokwium.DAL.runtimeconfig.json
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\bin\Debug\net8.0\Kolokwium.DAL.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\bin\Debug\net8.0\Kolokwium.DAL.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\bin\Debug\net8.0\Kolokwium.Model.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\bin\Debug\net8.0\Kolokwium.Model.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwiu.AE75B84B.Up2Date
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\refint\Kolokwium.DAL.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.pdb
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.genruntimeconfig.cache
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\ref\Kolokwium.DAL.dll
