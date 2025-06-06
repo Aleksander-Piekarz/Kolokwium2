@@ -10,3 +10,4 @@ C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Deb
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\refint\Kolokwium.Model.dll
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.pdb
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\ref\Kolokwium.Model.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Model\obj\Debug\net8.0\Kolokwium.Model.sourcelink.json

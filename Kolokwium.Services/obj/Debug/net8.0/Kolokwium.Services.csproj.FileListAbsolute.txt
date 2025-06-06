@@ -17,3 +17,4 @@ C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Services\obj\
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Services\obj\Debug\net8.0\refint\Kolokwium.Services.dll
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Services\obj\Debug\net8.0\Kolokwium.Services.pdb
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Services\obj\Debug\net8.0\ref\Kolokwium.Services.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Services\obj\Debug\net8.0\Kolokwium.Services.sourcelink.json

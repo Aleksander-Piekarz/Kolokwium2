@@ -13,3 +13,4 @@ C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\refint\Kolokwium.ViewModel.dll
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.pdb
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\ref\Kolokwium.ViewModel.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.ViewModel\obj\Debug\net8.0\Kolokwium.ViewModel.sourcelink.json

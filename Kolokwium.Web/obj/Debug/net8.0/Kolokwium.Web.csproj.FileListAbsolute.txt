@@ -574,3 +574,4 @@ C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Web\obj\Debug
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Web\obj\Debug\net8.0\Kolokwium.Web.pdb
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Web\obj\Debug\net8.0\Kolokwium.Web.genruntimeconfig.cache
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Web\obj\Debug\net8.0\ref\Kolokwium.Web.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.Web\obj\Debug\net8.0\Kolokwium.Web.sourcelink.json

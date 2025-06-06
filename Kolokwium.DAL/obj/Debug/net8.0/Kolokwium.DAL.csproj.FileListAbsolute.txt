@@ -15,3 +15,4 @@ C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.pdb
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.genruntimeconfig.cache
 C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\ref\Kolokwium.DAL.dll
+C:\Users\kerva\laby\Aplikacje_WWW_S-kolokwium2\Kolokwium\Kolokwium.DAL\obj\Debug\net8.0\Kolokwium.DAL.sourcelink.json
